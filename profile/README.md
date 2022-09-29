@@ -27,17 +27,17 @@
 
 
 <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
-<p align='left'>
+<p align="left">
 
 ##### 👨‍💻 Programming Languages
 
-<img height="40" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-<img height="40" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg">
-<img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-<img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
-<img height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
-<img height="40" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg">
-<img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+<code><img height="40" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 
 ##### 🧰 Frameworks and Libraries
 
