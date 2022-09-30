@@ -13,7 +13,7 @@
 [![Github](https://img.shields.io/github/followers/pnguyen215?label=Follow&style=social)](https://github.com/pnguyen215)
 
 
-<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Poppies </h3>
+<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Eagle </h3>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
