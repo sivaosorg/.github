@@ -74,4 +74,9 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/couchbase/couchbase-ar21.svg"></code>
 
 
+##### ⭐️ Top langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnguyen215)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <hr>
