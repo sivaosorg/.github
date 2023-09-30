@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
 </p>
 <br>
-<hr>
+<hr> -->
 
 <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 </h1>
@@ -12,19 +12,14 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=pnguyen215)
 [![Github](https://img.shields.io/github/followers/pnguyen215?label=Follow&style=social)](https://github.com/pnguyen215)
 
-
 <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Eagle </h3>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 Build user module
-  
 - 🌱 Build sale module
-  
 - 👯 Build employee module
-  
 - ⚡ Build logistics module
-
 
 <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
 <p align="left">
@@ -73,10 +68,7 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/apache_couchdb/apache_couchdb-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/couchbase/couchbase-ar21.svg"></code>
 
-
-##### ⭐️ Top langs
+<!-- ##### ⭐️ Top langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnguyen215)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<hr>
+<hr> -->
